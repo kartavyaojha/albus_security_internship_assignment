@@ -1,5 +1,5 @@
 # albus_security_internship_assignment
-This repository contains internship assignments completed at Albus Security, showcasing networking and Python skills in concise solutions. 
+This repository showcases assignments completed during my internship at Albus Security. Through a series of networking and Python challenges, I've demonstrated problem-solving skills, technical proficiency, and a commitment to learning and growth. Each assignment reflects hands-on experience, meticulous documentation, and the application of best practices in networking and Python programming. Explore the repository to delve into the solutions developed and insights gained throughout my internship journey.
 
 # Internship Projects
 
