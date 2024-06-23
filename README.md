@@ -17,6 +17,20 @@ Summary:
 - Developed solutions to address specific requirements outlined in the assignment.
 - Demonstrated ability to write clean and efficient code, adhering to best practices and principles of Python programming.
 
----
 
+# Exploit Development 
+
+During my internship at Albus Security, I developed two key security tools:
+
+1. *Keylogger*:
+   - Captures and logs keystrokes.
+   - Uses pynput.
+
+2. *RCE Scanner*:
+   - Scans URLs for RCE vulnerabilities.
+   - Utilizes requests, socket, re, and colorama.
+
+These projects enhanced my skills in Python and cybersecurity.
+
+---
 
